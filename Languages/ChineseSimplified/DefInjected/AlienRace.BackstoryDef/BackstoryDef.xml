@@ -73,15 +73,15 @@
 
   <!-- ORIGINAL STUFF BELOW -->
 
-  <Dragonian_WildChild.title>Dragonian Wild Born</Dragonian_WildChild.title>
-  <Dragonian_WildChild.titleShort>Wild Born</Dragonian_WildChild.titleShort>
-  <Dragonian_WildChild.baseDescription>[PAWN_nameDef] is wild dragonian who grew up in the forests.</Dragonian_WildChild.baseDescription>
+  <Dragonian_WildChild.title>野外出生的幼龙</Dragonian_WildChild.title>
+  <Dragonian_WildChild.titleShort>野生幼龙人</Dragonian_WildChild.titleShort>
+  <Dragonian_WildChild.baseDescription>[PAWN_nameDef] 是在森林里长大的土生土长的龙族人。</Dragonian_WildChild.baseDescription>
 
-  <Dragonian_Wild.title>Wild Dragonian</Dragonian_Wild.title>
-  <Dragonian_Wild.titleShort>Wild Dragonian</Dragonian_Wild.titleShort>
-  <Dragonian_Wild.baseDescription>[PAWN_nameDef] is wild dragonian who grew up in the forests.</Dragonian_Wild.baseDescription>
+  <Dragonian_Wild.title>野生龙族</Dragonian_Wild.title>
+  <Dragonian_Wild.titleShort>野生龙人</Dragonian_Wild.titleShort>
+  <Dragonian_Wild.baseDescription>[PAWN_nameDef] 是在森林里长大的土生土长的龙族人。</Dragonian_Wild.baseDescription>
 
-  <Dragonian_SlaveChild.title>被抛弃的龙族</Dragonian_SlaveChild.title>
+  <Dragonian_SlaveChild.title>被抛弃的幼龙</Dragonian_SlaveChild.title>
   <Dragonian_SlaveChild.titleShort>遗弃龙人</Dragonian_SlaveChild.titleShort>
   <Dragonian_SlaveChild.baseDescription>[PAWN_nameDef] 是从野外被带回来，并且被人类一手抚养长大的</Dragonian_SlaveChild.baseDescription>
 
